@@ -10,7 +10,7 @@ def MenuStudent():
         print("1. Add Student")
         print("2. Search Student Record")
         print("3. Delete Student Record")
-        print("4. Update Update Record")
+        print("4. Update Student Record")
         print("5. Return to Main Menu")
         print("==========================================================")
         choice = int(input("Enter Choice between 1 to 5 -------> : "))
