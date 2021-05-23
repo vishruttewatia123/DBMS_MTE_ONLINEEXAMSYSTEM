@@ -18,7 +18,7 @@ while True:
     print("2. Subject Management")
     print("3. Exam Management")
     print("4. Exit")
-    choice = int(input("Enter Choice between 1 to 4 -------> : "))
+    choice = float(input("Enter Choice between 1 to 4 -------> : "))
     if choice == 1:
         Menulib.MenuStudent()
     elif choice == 2:
